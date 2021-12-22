@@ -27,7 +27,6 @@ dataMahasiswa[nama] = nim, tugas, uts, uas, akhir
 ```
 
 
-https://user-images.githubusercontent.com/92729919/147091194-580a58e4-8d72-4007-aa3b-46e097eb74e1.mp4
 
 
 - untuk statment _else_ di isikan cetak **"DATA TIDAK DI TEMUKAN!"**
